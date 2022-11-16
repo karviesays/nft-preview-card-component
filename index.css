@@ -75,10 +75,10 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
 }
-.card__text h1 {
+.card__text h2 {
   color: var(--white);
 }
-.card__text h1:hover {
+.card__text h2:hover {
   color: var(--cyan);
   cursor: pointer;
 }
