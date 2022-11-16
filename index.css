@@ -31,7 +31,6 @@ body {
   background: var(--card-bg);
   border-radius: 1.5rem;
   max-width: 44.688rem;
-  margin: 3.9rem auto;
 
   display: flex;
   flex-direction: column;
