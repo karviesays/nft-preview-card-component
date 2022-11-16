@@ -134,8 +134,8 @@ body {
 
 @media (min-width: 44.688rem) {
   .card {
-    max-width: 21.8rem;
-    margin: 6.4rem auto 4rem auto;
+    max-width: 24rem;
+    margin: 2rem auto;
     border: 1rem solid #0c1729;
     border-bottom: 2.1rem solid #0c1729;
   }
